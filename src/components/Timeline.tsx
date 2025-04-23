@@ -16,50 +16,50 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="July 2019 - Present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Data Integration and Reporting Specialist</h3>
+            <h4 className="vertical-timeline-element-subtitle">Compass Group - Brisbane </h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Integration of multiple systems to improve business and reporting process.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="Feb 2019 - Jul 2019"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Data Visualisation Specialist - Contract</h3>
+            <h4 className="vertical-timeline-element-subtitle">BHP - Brisbane</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              IoT reporting of multiple mobile plant including rail and transit.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            date="Aug 2018 - Feb 2019"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Data Visualisation Specialist - Contract</h3>
+            <h4 className="vertical-timeline-element-subtitle">Anglo American - Brisbane </h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Custom PowerBI visualisation for monitoring coal mining assets.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="2016 - 2018"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">Solutions Data Analyst</h3>
+            <h4 className="vertical-timeline-element-subtitle">GraphenAI - Singapore</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              Built dashboards and generated web solutions.
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
